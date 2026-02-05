@@ -1,5 +1,5 @@
 return {
     maintenance = false,  -- true = skript se nespustí (údržba)
     bypass = false,        -- false = bypass se nespustí
-    detected = true     -- true = skript se zablokuje (detekce)
+    detected = false     -- true = skript se zablokuje (detekce)
 }
