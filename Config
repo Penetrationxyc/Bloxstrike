@@ -1,5 +1,6 @@
 return {
-    maintenance = false,  -- true = skript se nespustí (údržba)
-    bypass = true,        -- false = bypass se nespustí
-    detected = false     -- true = skript se zablokuje (detekce)
+    version = "Beta V1.0.0",
+    maintenance = false,
+    bypass = true,
+    detected = false
 }
